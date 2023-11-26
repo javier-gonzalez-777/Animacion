@@ -1,2 +1,0 @@
-# Animacion
-Examen CSS Avanzado
